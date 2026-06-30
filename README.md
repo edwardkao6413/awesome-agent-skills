@@ -171,9 +171,8 @@ Production-grade Agent Skills for every major test automation framework, maintai
 <details>
 <summary><h3 style="display:inline">Skills by Zero</h3></summary>
 
-Skills from [Zero](https://zero.xyz) that give your AI a discover-and-pay tool layer — when an agent gets blocked, it finds and calls real external tools, APIs, and services (image generation, transcription, real-time data) right from chat, charged per use with no per-service signup.
 
-- **[zero/zero](https://github.com/officialzeroxyz/zero-plugins/tree/main/plugins/zero/skills/zero)** - Discover and call external paid tools for Claude Code agents instead of stopping to ask the user to sign up or fetch an API key
+- **[zero/zero](https://github.com/officialzeroxyz/zero-plugins/blob/main/plugins/zero/skills/zero/SKILL.md)** - Discover and call external paid tools for Claude Code agents instead of stopping to ask the user to sign up or fetch an API key
 - **[zero/zero-gemini](https://github.com/officialzeroxyz/zero-plugins/tree/main/plugins/zero-gemini)** - Same Zero tool-discovery and payment layer packaged as a Gemini CLI extension
 
 </details>
